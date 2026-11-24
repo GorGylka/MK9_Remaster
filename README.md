@@ -2,9 +2,9 @@
 
 The mod does not provide the original game files. You must own the PC version of MK9 and PS Vita to install it.  
 
-<img src="https://github.com/GorGylka/MK9_Remaster/blob/main/before.png">
+<img src="https://github.com/GorGylka/MK9_Remaster/blob/main/before.png" width=50% height=50%>
 
-<img src="https://github.com/GorGylka/MK9_Remaster/blob/main/after.png">
+<img src="https://github.com/GorGylka/MK9_Remaster/blob/main/after.png" width=50% height=50%>
 
 Graphics mod for MK9.  
 -Ported 3D Models, Textures, Lightmaps from PC  
